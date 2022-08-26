@@ -30,11 +30,11 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 - Big O gösterimi = O(n^2)
 
-- [2 3 4 5 6 7 8 9 15] 18 => Dizi sıralandıktan sonra 18 sayısı worst case kapsamına girmektedir.
+   * [2 3 4 5 6 7 8 9 15] 18 => Dizi sıralandıktan sonra 18 sayısı worst case kapsamına girmektedir.
 
 -
 
-* [7] 3 5 8 2 9 4 15 6
-* [3 7] 5 8 2 9 4 15 6
-* [3 5 7] 8 2 9 4 15 6
-* [3 5 7 8] 2 9 4 15 6
+   * [7] 3 5 8 2 9 4 15 6
+   * [3 7] 5 8 2 9 4 15 6
+   * [3 5 7] 8 2 9 4 15 6
+   * [3 5 7 8] 2 9 4 15 6
